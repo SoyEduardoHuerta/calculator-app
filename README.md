@@ -1,10 +1,8 @@
-<img src="https://github.com/SoyEduardoHuerta/calculator-app/blob/056ae278bbf15e1bc2f9e2e04f6af53902659af5/aa-preaview-calculator-app.jpg" alt="Preaview">
-
-<h1>Calculator App</h1>
+# Calculator App
 
 Calculator application developed with HTML, CSS and JavaScript.
 
-<h2>Features</h2>
+## Features
 
 <ul>
   <li>Addition</li>
@@ -14,7 +12,7 @@ Calculator application developed with HTML, CSS and JavaScript.
   <li>Interactive user interface</li>
 </ul>
 
-<h2> Technologies Used </h2>
+## Technologies Used
 
 <ul>
   <li>HTML</li>
@@ -22,11 +20,11 @@ Calculator application developed with HTML, CSS and JavaScript.
   <li>JavaScript </li>
 </ul>
 
-<h2>Purpose</h2>
+## Purpose
 
 This project was developed to practice programming logic.
 
-<h2>Credits</h2>
+## Credits
 
 Tutorial followed:
 
@@ -34,6 +32,6 @@ https://www.youtube.com/watch?v=GoGoqmB8GbE&t
 
 This project was created for learning purposes.
 
-<h2>Author</h2>
+## Author
 
 Eduardo Huerta
