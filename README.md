@@ -1,3 +1,5 @@
+![image alt](https://github.com/SoyEduardoHuerta/calculator-app/blob/4bbaab98cd319d8af78e0c784123fab8c9454830/aa-preview-calculator-app.jpg)  
+
 # Calculator App
 
 Calculator application developed with HTML, CSS and JavaScript.
