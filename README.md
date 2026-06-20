@@ -1,4 +1,4 @@
-![image alt](https://github.com/SoyEduardoHuerta/calculator-app/blob/4bbaab98cd319d8af78e0c784123fab8c9454830/aa-preview-calculator-app.jpg)  
+![image alt](https://github.com/SoyEduardoHuerta/calculator-app/blob/aeeb711c7db7ca4606f3c630e810dfc595ee1dc9/preview-calculator-app.jpg)  
 
 # Calculator App
 
